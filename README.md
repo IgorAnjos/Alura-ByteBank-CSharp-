@@ -1,3 +1,3 @@
-# Alura-ByteBank-CSharp-
+# Alura-ByteBankCSHARP
 
 ## Orientação a Objeto com C#
